@@ -6,7 +6,7 @@
 /*   By: aaliclar <aaliclar@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/15 11:03:55 by aaliclar          #+#    #+#             */
-/*   Updated: 2024/08/18 13:16:57 by aaliclar         ###   ########.fr       */
+/*   Updated: 2024/08/18 13:50:02 by aaliclar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,4 +23,3 @@ void	ft_print_reverse_alphabet(void)
 		c--;
 	}
 }
-
